@@ -1,0 +1,9 @@
+real-estate-website/
+│
+├── index.html          # Main homepage
+├── about.html          # About us page
+├── gallery.html        # Gallery of properties
+├── property.html       # Property details
+├── contact.html        # Contact info
+├── style.css           # All styles and fonts
+└── images/             # Folder for photos
